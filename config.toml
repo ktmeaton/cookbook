@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseurl = "https://ktmeaton.github.io/plague-phylogeography/"
 languageCode = "en-us"
 title = "Katherine Eaton's Cookbook"
 theme = "gochowdown"
